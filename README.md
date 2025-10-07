@@ -6,4 +6,28 @@ This repository contains my submission for ASTR4004 Assignment 3, including Jupy
 
 ## Repository Contents
 
-To be updated as assignment is completed.
+### Notebooks
+- **Question_2_ADQL/ADQL_task:**
+
+  Notebook containing code and written solutions for question 2.
+  
+- **Question_3_metallicity/metallicity_task:**
+
+  Notebook containing code and written solutions for question 2.
+
+### Directories
+- **data/:**
+
+  Contains datasets required for both questions.
+  
+- **figures/:**
+
+  Stores figures output as part of the assignment.
+  
+- **Question_2_ADQL:**
+
+  Contains the solution notebook for Question 2
+  
+- **Question_3_metallicity:**
+
+  Contains the solution notebook for Question 2
